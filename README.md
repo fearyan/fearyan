@@ -1,4 +1,4 @@
-# 🌟 Hey there, I'm Aryan!  ^_~
+# 🌟 You've reached Aryan!  ^_~
 
 Welcome to my **little digital playground** 🎮 – where AI learns tricks 🧠, machine learning models dream in binary 💭💾, and every bug is just a misunderstood feature! 🐞💡  
 
