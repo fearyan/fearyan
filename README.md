@@ -22,7 +22,7 @@ Welcome to my **little digital playground** 🎮 – where AI learns tricks 🧠
 🚀 **AI & Machine Learning Sorcery 🧙‍♂️** – Teaching machines to think (or at least pretend to) 🤖  
 🤯 **LLMs & Agentic AI 🛠️** – Because why build software when you can build software that builds software? 🤯  
 ⚡ **DevOps & Cloud Engineering ☁️** – Automating all the things! 🤖  
-🐧 **Linux Server Wizardry 🏰** – Managing, securing, and optimizing Linux servers like a boss! 
+🐧 **Linux Server Wizardry 🏰** – Managing, securing, and optimizing Linux servers like a boss!   
 🎯 **Building Fun & Smart Projects 🛠️** – AI that talks? A chess engine that dominates? You name it! 🎮  
 
 ---
@@ -53,7 +53,7 @@ Welcome to my **little digital playground** 🎮 – where AI learns tricks 🧠
 
 🎮 **I treat debugging like solving a puzzle game.** 🧩  
 🐱 **Tori, my cat, is my official coding supervisor.** 😼  
-🏋️ **I gym so my AI models don’t have to carry all the weight.** 💪
+🏋️ **I gym so my AI models don’t have to carry all the weight.** 💪  
 🐧 **Linux is my second home.** (Or maybe my first? 🤔)   
 🍕 **Pizza is fuel for both coding and life.** 😋  
 
