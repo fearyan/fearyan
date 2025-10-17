@@ -1,72 +1,96 @@
-# 🌟 Hey there, I'm Aryan!  ^_~
+# 👋 Hey, I'm Aryan (☞ﾟヮﾟ)☞
 
-Welcome to my **little digital playground** 🎮 – where AI learns tricks 🧠, machine learning models dream in binary 💭💾, and every bug is just a misunderstood feature! 🐞💡  
-
----
-
-## 🐱 About Me  
-
-👋 Hi! I'm **Aryan**, an **aspiring software developer** 💻 specializing in **Gen-AI & Machine Learning**! 🤯 When I'm not training neural networks 🏋️‍♂️ or debugging with sheer determination (and snacks 🍪), I’m probably:  ( $ _ $ )
-
-💻 **Building cool AI-powered projects 🤖**  
-🐾 **Chilling with my adorable cat, Tori 🐱**  
-🏋️ **Lifting weights so my AI models don’t have to 🏆**  
-🚀 **Exploring the endless world of tech 🌍**  
-
-> “AI is cool, but have you ever seen a cat sit perfectly on a keyboard while you code? **Now, that’s real intelligence.**” 🐱⌨️  
+Welcome to my digital workspace; where software meets intelligence and every project has a purpose. 
 
 ---
 
-## 🔥 What I Do  
+## 🧠 About Me  
 
-🚀 **AI & Machine Learning Sorcery 🧙‍♂️** – Teaching machines to think (or at least pretend to) 🤖  
-🤯 **LLMs & Agentic AI 🛠️** – Because why build software when you can build software that builds software? 🤯  
-⚡ **DevOps & Cloud Engineering ☁️** – Automating all the things! 🤖  
-🐧 **Linux Server Wizardry 🏰** – Managing, securing, and optimizing Linux servers like a boss!   
-🎯 **Building Fun & Smart Projects 🛠️** – AI that talks? A chess engine that dominates? You name it! 🎮  
+I'm **Aryan**, a **21-year-old CSE student** and **AI/ML developer** passionate about building intelligent systems that solve real-world problems.  
 
----
+My focus areas include **Software Development**, **Generative AI**, **Agentic Systems**, **Applied Machine Learning**, and **Applied Data Science** — bridging the gap between human creativity and machine reasoning.  
 
-## 🛠️ Skills & Tech 🚀  
-
-### 💡 Core Expertise 🧠  
-🧑‍💻 **AI-ML** | 🤖 **LLMs** | 🔥 **Neural Networks** | 🦙 **Llama** | 🤯 **Agentic AI** | 🔗 **Langchain**  
-
-### 🔥 Programming & Frameworks 💻  
-🐍 **Python** | ☕ **Java** | 🌱 **Spring Boot**  
-
-### ☁️ Cloud & DevOps Magic 💨  
-🌩️ **AWS** | 🚢 **Kubernetes** | 🐳 **Docker** | 🌍 **Terraform** | 🔄 **CI/CD Pipelines** | 🤖 **GitHub Actions**  
-
-### 📊 Observability & Monitoring 👀  
-📜 **Loki** | 📈 **Grafana** | 🔎 **Tempo** | 📡 **Prometheus**
-
-### 🐧 Linux & Server Management 🏴‍☠️  
-⚡ **Linux Power User** | 🛠️ **System Administration** | 🔐 **Server Security** | 🔥 **Performance Tuning** | 🚀 **Self-hosting everything!**  
-
-
-💖 Also proficient in **googling errors at lightning speed** ⚡🔥  
+When I’m not training models or building backends, you’ll probably find me:  
+- 🏋️ Lifting weights (2+ years strong)  
+- 🏍️ Riding through mountain roads  
+- 🧠 Writing or reviewing AI research papers  
 
 ---
 
-## 🌸 Fun Facts 🎉  
+## 🚀 Featured Projects  
 
-🎮 **I treat debugging like solving a puzzle game.** 🧩  
-🐱 **Tori, my cat, is my official coding supervisor.** 😼  
-🏋️ **I gym so my AI models don’t have to carry all the weight.** 💪  
-🐧 **Linux is my second home.** (Or maybe my first? 🤔)   
-🍕 **Pizza is fuel for both coding and life.** 😋  
+### 🧩 Formless *(In Progress)*  
+A **multi-agent, context-aware form-filling assistant** that understands user intent and dynamically completes forms using LLMs and vector-based context memory.  
+- Designed for workflow automation and enterprise data entry  
+- Uses agent coordination, context retrieval, and semantic reasoning  
+
+### 🧠 TrendRAG  
+A **RAG-powered social media trend analysis platform** built with GPT and ChromaDB.  
+- Processes ~1,000 posts/min across Twitter, Reddit, and Instagram  
+- Enables real-time sentiment tracking and trend visualization  
+
+### ⚡ Neural Network from Scratch  
+Implemented a **fully functional neural network** from the ground up using Python and NumPy.  
+- Covers forward/backward propagation, gradient descent, and activation functions  
+- Built to understand ML fundamentals without relying on frameworks  
+
+### 💪 Trainerrr  
+An AI-powered **personal fitness and training assistant** that tracks workouts, suggests personalized routines, and integrates with OpenAI APIs.  
+- Uses computer vision and NLP to analyze posture and performance  
+- Designed to make strength training smarter and more adaptive  
+
+### 🌾 Drone-AI for Precision Agriculture *(IEEE INDISCON 2025)*  
+Published research integrating **CNNs, Vision Transformers**, and **IoT-based drone systems** for real-time crop health and yield prediction.  
+
+### 🧏 Sign Language Detection  
+A real-time system converting **sign gestures into text** using deep learning, aimed at improving accessibility and inclusion.  
 
 ---
 
-## 📬 Let's Connect! 🌐  
+## 💼 Experience  
 
-🐦 **Twitter/X:** [@aryansarc](https://twitter.com/aryansarc)  
-🔗 **LinkedIn:** [aryandev](https://www.linkedin.com/in/aryandev)  
-📩 **Email:** fe.aryan@outlook.com
-
-💖 Feel free to **fork, star ⭐, or drop a cute comment!** Let’s build something awesome together, one **algorithm (and one snack break 🍩)** at a time! 🚀✨  
+### 🧠 Outlier.ai — AI Data Contributor (RLHF & Reasoning Task Design)  
+Contributed to the **Laurelin Moon Annotator**, **Psychic-Alakazam**, and **Kepler V2** projects.  
+- Crafted, refined, and evaluated **complex math and reasoning datasets** for reinforcement learning with human feedback (RLHF).  
+- Designed high-quality AI prompts, alignment data, and reasoning annotations to enhance large language model fluency and interpretability.  
+- Followed **strict formatting and linguistic style guidelines** to ensure dataset consistency and training readiness.  
 
 ---
-🐾 **PS:** If you see a random `print("Hello World!")` in my code, just know...  
-It's my cat. **Tori loves coding too.** 🐱💻💖  
+
+---
+
+## 🧩 Tech Stack  
+
+**💻 Languages:** Python, Java, JavaScript, SQL, HTML, CSS
+
+**📚 Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, Keras, OpenCV, NLTK, NumPy, Pandas, LangChain, LangFlow, Flask, FastAPI, React.js, Node.js, OpenAI API, Matplotlib, Seaborn
+
+**⚙️ DevOps & CI/CD:** Docker, Kubernetes, Terraform, GitHub Actions, LGTM, CI/CD Pipelines, Selenium, Playwright, Requests  
+
+**☁️ Cloud & Infrastructure:** AWS, Linux Server Administration, Render, Vercel  
+
+**🗄️ Databases:** MySQL, SQLite, PostgreSQL  
+
+**🛠️ Tools:** VS Code, Git, System Administration, Web APIs
+
+
+---
+
+## 🏆 Highlights  
+
+- **📄 IEEE INDISCON 2025 Author** – Research on drone-based AI for precision agriculture; paper on plant health analysis and crop yield prediction using drone-based sensing and deep learning (May 2025)  
+- **♟️ ML Researcher** – AI-powered chess engine paper accepted in Scopus-indexed Hinweis-RTET and journals IJRES, IJAEM, IJERT, IRAJ (Dec 2024)  
+- **🛠️ OS Research Author** – Research on operating systems for autonomous vehicles with real-time systems accepted in IJRES (Apr 2024)
+
+
+---
+
+## 📬 Connect With Me  
+
+- **LinkedIn:** [aryandev](https://www.linkedin.com/in/aryandev)  
+- **Twitter/X:** [@aryansarc](https://twitter.com/aryansarc)  
+- **Email:** fe.aryan@outlook.com  
+
+---
+
+> Building intelligent systems that make life a little smarter — one model at a time.  
