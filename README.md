@@ -8,7 +8,7 @@ Welcome to my digital workspace; where software meets intelligence and every pro
 
 I'm **Aryan**, a **21-year-old CSE student** and **AI/ML developer** passionate about building intelligent systems that solve real-world problems.  
 
-My focus areas include **Software Development**, **Generative AI**, **Agentic Systems**, **Applied Machine Learning**, and **Applied Data Science** — bridging the gap between human creativity and machine reasoning.  
+My focus areas include **Software Development**, **Generative AI**, **Agentic Systems**, **Applied Machine Learning**, and **Applied Data Science**, bridging the gap between human creativity and machine reasoning.  
 
 When I’m not training models or building backends, you’ll probably find me:  
 - 🏋️ Lifting weights (2+ years strong)  
