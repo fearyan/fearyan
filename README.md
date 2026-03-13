@@ -6,7 +6,7 @@ Welcome to my digital workspace; where software meets intelligence and every pro
 
 ## 🧠 About Me  
 
-I'm **Aryan**, a **21-year-old CSE student** and **AI/ML developer** passionate about building intelligent systems that solve real-world problems.  
+I'm **Aryan**, a **22-year-old CSE student** and **AI/ML developer** passionate about building intelligent systems that solve real-world problems.  
 
 My focus areas include **Software Development**, **Generative AI**, **Agentic Systems**, **Applied Machine Learning**, and **Applied Data Science**, bridging the gap between human creativity and machine reasoning.  
 
@@ -61,7 +61,7 @@ Contributed to the **Laurelin Moon Annotator**, **Psychic-Alakazam**, and **Kepl
 
 ## 🧩 Tech Stack  
 
-**💻 Languages:** Python, Java, JavaScript, SQL, HTML, CSS
+**💻 Languages:** Python, Go, SQL
 
 **📚 Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, Keras, OpenCV, NLTK, NumPy, Pandas, LangChain, LangFlow, Flask, FastAPI, React.js, Node.js, OpenAI API, Matplotlib, Seaborn
 
